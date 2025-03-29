@@ -16,4 +16,4 @@ Faker = "14.2.0"
 sqlalchemy-serializer = "*"
 
 [requires]
-python_full_version = "3.8.13"
+python_full_version = "3.12.3"
